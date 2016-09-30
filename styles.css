@@ -1,0 +1,182 @@
+#header_image {
+display: block;
+margin-left: auto;
+margin-right: auto;
+border: 20px;
+width: 100%;
+}
+
+body {
+padding: 20px;
+background: #999966; /*grayish background*/
+text-align: left;
+}
+
+div#navigation{
+list-style-type: none;
+text-align: center;
+min-width: 250px;
+height: 1.75em;
+background-color: #5C5C3D;
+margin-bottom: 1.5em;
+}
+
+div#navigation li {
+display: inline-block;
+padding-left: 3px;
+padding-right: 3px;
+}
+
+div#navigation li a {
+text-decoration: none;
+text-align: center;
+color: #FFFFFF;
+background-color: #2E2E1F;
+display: block;
+width: 100%;
+height: 100%;
+border: ridge;
+padding-left: 3px;
+padding-right: 3px;
+font-family: arial, "times new roman";
+font-size: 1em;
+}
+
+div#navigation li a:hover {
+background-color: #2E2E1F;
+text-decoration: underline;
+height: 1.5em;
+}
+
+
+div#slideshow {
+float: left;
+}
+
+.textbox {
+margin-left: 350px;
+background: #A3A375;
+padding-left: 25px;
+padding-right: 25px;
+padding-top: 3px;
+min-height: 300px;
+}
+
+div#container {
+display: block;
+padding-top: 5px;
+padding-bottom: 5px;
+}
+
+h1 {
+clear: left;
+color: #000000;
+}
+
+h2 {
+}
+
+h3 {
+color: #FFFFFF;
+}
+
+label {
+color: #FFFFFF;
+}
+
+p {
+color: #000000;
+}
+
+a {
+color: #FFFFFF;
+}
+
+#view {
+}
+
+/*list view style properties*/
+.left {
+width: 20%;
+min-width: 100px;
+min-height: 300px;
+float:left;
+background-color: #2E2E1F;
+}
+
+.left ul li{
+text-align: left;
+color: #FFFFFF;}
+
+.left ul li:hover{
+text-decoration: underline;
+text-align: left;
+color: #FFFFFF;
+}
+
+.main {
+margin-left:22%;
+background-color: #A3A375;
+min-width: 230px;
+min-height: 300px;
+}
+
+#footer {
+position: relative;
+margin-top: -20px;
+width: 100%;
+padding-top: 1em;
+height: 20px;
+text-align: right;
+clear: both;
+
+}
+
+/*about me page*/
+#aboutMeSlideShow {
+float: left;
+padding-right: 2em;
+}
+
+.postHere {
+padding: 2em;
+text-align: left;
+}
+
+/*buttons*/
+.button {
+background-color: #2E2E1F;
+color: #FFFFFF;
+border: ridge;
+}
+
+#blogTitle {
+font-family: Arial, "Times New Roman";
+color: #FFFFFF;
+font-size: 2em;
+background-color: #5C5C3D;
+padding-left: 8px;
+margin-bottom: .5em;}
+
+fieldset{
+  border: ridge;
+  padding-left: 20px;
+  padding-top: 10px;
+  background-color: #A3A375;
+}
+
+.formfield {
+  border: 1px solid #333333;
+  padding: 2px 5px;
+  background-color: #eeeeee;
+}
+
+fieldset label,p{
+font-family: Arial, "Times New Roman";
+color: #000000;
+}
+
+table {
+margin-left: auto;
+margin-right: auto;
+}

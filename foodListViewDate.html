@@ -1,0 +1,64 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+ "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
+<link rel="stylesheet" type="text/css" href="styles.css" />
+<title>Food List View Date</title>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js" type="text/javascript"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+    $("#friedRolls").click(function(){
+        $(".postHere").load("foodPosts.txt #friedRolls");
+    });
+	$("#quinoa").click(function(){
+		$(".postHere").load("foodPosts.txt #quinoa");
+	});
+	$("#pizzaHut").click(function(){
+		$(".postHere").load("foodPosts.txt #pizzaHut");
+	});
+	$("#bettys").click(function(){
+		$(".postHere").load("foodPosts.txt #bettys");
+	});
+	$("#hummus").click(function(){
+		$(".postHere").load("foodPosts.txt #hummus");
+	});
+	$("#hydePark").click(function(){
+		$(".postHere").load("foodPosts.txt #hydePark");
+	});
+	});
+
+	$(document).ready(function(){
+		$("#options").change(function() {
+		if ($(this).val() == 'date') {
+			$("#view").load("foodListViewDate.html");
+			}
+		if ($(this).val() == 'location') {
+			$("#view").load("foodListViewLocation.html");
+			}
+		});
+	});
+</script>
+</head>
+<body>
+<div class="left">
+	<label for="options">Organize by:</label>
+	<select id="options" name="options">
+		<option id="default" value="--">--</option>
+		<option id="date" value="date">Date</option>
+		<option id="location" value="location">Location</option>
+	</select>
+	<ul>
+		<li id="friedRolls">1 April 2015</li>
+		<li id="pizzaHut">8 March 2015</li>
+		<li id="quinoa">15 February 2015</li>
+		<li id="bettys">21 February 2015</li>
+		<li id="hummus">8 February 2015</li>
+		<li id="hydePark">1 February 2015</li>
+	</ul>
+</div>
+<div class="main">
+	<div class="postHere">Click on one of the links on the left to read my posts!</div>
+</div>
+</body>
+</html>

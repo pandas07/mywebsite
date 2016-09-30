@@ -1,0 +1,38 @@
+<p id="friedRolls">Fried Rolls (1 April 2015)<br /><br />
+It's my first day in Hong Kong and my aunt took me to her old workplace to eat dinner. I was already so 
+full from lunch with my uncle, so after this meal, I was stuffed. The food was so good, I really wish my 
+stomach was bigger. We had deep fried rolls with shrimp and vegetables inside. I totally recommend
+this place if anyone is ever in the Tsz Wan Shan Shopping Mall. It's on the 5th floor.</p>
+
+<p id="quinoa">Quinoa Porridge (15 February 2015)<br /><br />
+I've been spending too much money lately, so when Tiffany wanted to go out for lunch this weekend, I chose the
+cheapest item possible...quinoa porridge. At least it's...healthy? It's my first time trying quinoa, and it was 
+alright. I think there could have been more sweetness added to it, but I think I don't need any 
+more sugar in my system. I was also saving my stomach for the pulled pork that I wanted to try 
+at the Farmers' Market. I don't recommend eating the quinoa porridge, but I definitely recommend
+the pulled pork sandwich!</p>
+
+<p id="pizzaHut">Sweet Tooth (8 March 2015)<br /><br />
+I visited my friend Maryam this weekend, and today was my last day. Being the indecisive people 
+that we are, we somehow ended up going to Pizza Hut for lunch.
+</p>
+
+<p id="bettys">Betty's (21 February 2015)<br /><br />
+I'm currently in York and today Julianna, Tiffany, and I had breakfast at Betty's. 
+</p>
+
+<p id="hummus">Humpit's(8 February 2015)<br /><br />
+I'm on a quest to find all the good food to eat in Leeds, so I looked on TripAdvisor for guidance and
+I found Humpit's! It's a Mediterranean food restaurant and is vegan friendly. I'm not vegan, but it was
+really good. I highly recommend this place!
+</p>
+
+<p id="hydePark">Hyde Park Pub (1 February 2015) <br /><br />
+Today I ate dinner with Sumiko and her friends. It was my first time having dinner at a pub!</p>
+
+
+
+
+
+
+
